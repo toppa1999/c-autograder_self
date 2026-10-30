@@ -1,0 +1,7 @@
+# Combined requirements (parts 1-4). System tools: cppcheck, valgrind, gcc; optional: ollama, perf
+tree-sitter>=0.22
+tree-sitter-c>=0.21
+pytest>=8.0
+lizard>=1.17
+numpy>=1.26        # optional
+Django>=5.2,<6.0
